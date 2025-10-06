@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "chai": "^5.1.2"
+  },
+  "devDependencies": {
+    "@stryker-mutator/core": "^8.7.1",
+    "@stryker-mutator/javascript-mutator": "^4.0.0"
+  }
+}
